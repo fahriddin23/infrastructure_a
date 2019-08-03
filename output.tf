@@ -1,3 +1,3 @@
 output "VPC" {
-  value = "${aws.vpc.dev.id}"
+  value = "${aws_vpc.dev.id}"
 }
