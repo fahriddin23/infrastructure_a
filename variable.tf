@@ -20,6 +20,11 @@ variable "key_name" {
   
 }
 
+variable "user_data" {
+  
+}
+
+
 variable "region" {
   
 }
