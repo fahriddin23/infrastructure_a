@@ -9,7 +9,7 @@ resource "aws_instance" "web1" {
   associate_public_ip_address = "true"
 
   tags = {
-      Name = "${var.Name}${count.index}"
+      Name = "${var.Name}"
       Env = "${var.Env}"
       Created_by = "${var.Created_by}"
       Dept = "${var.Dept}"
