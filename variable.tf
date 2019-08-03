@@ -21,7 +21,8 @@ variable "key_name" {
 }
   
 variable "count" {
-  
+      count = var.enabled 1
+
 }
 
 
