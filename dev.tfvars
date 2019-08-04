@@ -10,3 +10,6 @@ user_data   =      "userdata.sh"
 region      =      "us-east-1"
 instance_count =  1
 appname = "Wordpress"
+min_size = 
+max_size =
+desired_capacity =

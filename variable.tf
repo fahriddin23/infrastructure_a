@@ -9,6 +9,15 @@ variable "user_data" {}
 variable "region" {}
 variable "instance_count" {}
 variable "appname" {}
+variable "min_size" {
+}
+variable "max_size" {
+}
+variable "desired_capacity" {
+  
+}
+
+
 
 
   
