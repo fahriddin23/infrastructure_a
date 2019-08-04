@@ -9,4 +9,4 @@ key_name    =      "laptop"
 user_data   =      "userdata.sh"
 region      =      "us-east-1"
 instance_count =  1
-appname = Wordpress
+appname = "Wordpress"
